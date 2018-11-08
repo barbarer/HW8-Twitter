@@ -5,8 +5,8 @@ For homework 8 you will be working with Twitter data.  The instructions are in t
 - See cache_example.py for an example of how to work with a cache
 - See tweepy_example.py for an example of how to work with Twitter data
 
-Be sure to start this early and get help early if needed.  If your Twitter account isn't set up get it set up.  You can use
-the sample cache file to get started even if you don't have your Twitter account set up yet. You can print the list of keys for the cache to see the search phrases.
+Be sure to start this early and get help early if needed.  If your Twitter account isn't set up yet, get it set up or get help.  You can use
+the sample cache file to get started even if you don't have your Twitter account set up yet. You can print the list of keys for the cache to see the search phrases that were cached.  
 
 Remember to do commits often and do at least 3 commits at least 4 hours apart unless you turn in the assignment at least 24 hours early, then you just need at least 3 commits and they don't have to be 4 hours apart.   
 - Clone this file to your local computer
