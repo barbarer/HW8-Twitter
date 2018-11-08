@@ -1,9 +1,9 @@
 # HW8-Twitter
 For homework 8 you will be working with Twitter data.  The instructions are in the HW-Twitter.py file.
 
-See cache_twitter.json for an example cache file 
-See cache_example.py for an example of how to work with a cache
-See tweepy_example.py for an example of how to work with Twitter data
+- See cache_twitter.json for an example cache file 
+- See cache_example.py for an example of how to work with a cache
+- See tweepy_example.py for an example of how to work with Twitter data
 
 Be sure to start this early and get help early if needed.
 
