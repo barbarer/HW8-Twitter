@@ -8,7 +8,8 @@ For homework 8 you will be working with Twitter data.  The instructions are in t
 Be sure to start this early and get help early if needed.
 
 Remember to do commits often and do at least 3 commits at least 4 hours apart unless you turn in the assignment at least 24 hours early, then you just need at least 3 commits and they don't have to be 4 hours apart.   
-
+- Clone this file to your local computer
+  git clone url 
 - Add the modified file to your list of files to commit and check the status
   - git add HW-Twitter.py
   - git status
