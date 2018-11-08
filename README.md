@@ -6,7 +6,7 @@ See cache_twitter.json for an example cache file
 
 Be sure to start this early and get help early if needed.
 
-Remember to do commits often and do at least 3 commits at least 2 hours apart unless you turn in the assignment at least 24 hours early, then you just need at least 3 commits and they don't have to be 4 hours apart.   
+Remember to do commits often and do at least 3 commits at least 4 hours apart unless you turn in the assignment at least 24 hours early, then you just need at least 3 commits and they don't have to be 4 hours apart.   
 
 - Add the modified file to your list of files to commit and check the status
   - git add HW-Twitter.py
